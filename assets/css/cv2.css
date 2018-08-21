@@ -1,0 +1,85 @@
+#banniere{
+  background-color: #D0EAFB;
+  background-image: url(../img/puzzlebg4.png);
+  background-repeat: repeat;
+  background-position: center;
+  background-size: contain;
+  width: 100%;
+  height: 350px;
+}
+#entete{
+text-align: center;
+  font-size: 47px;
+
+}
+#entete2{
+text-align: center;
+  font-size: 47px;
+  margin-top: 100px;
+}
+body{
+  background-image: url(../img/);
+  background-color: #D0EAFB;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.nav-item{
+  font-size: 47px;
+}
+li, p{
+  font-size: 20px;
+}
+h2, p{
+  margin-top: 50px;
+  }
+h2, h3{
+    text-align: center;
+    font-weight: bold;
+}
+ol, ul{
+  list-style-type: none;
+  margin-top: 50px;
+}
+ul{
+  text-align: right;
+}
+#check{
+  color:#4E0250;
+}
+#check2{
+  color:#58BC82;
+}
+#check3{
+  color:#645986;
+}
+h3{
+font-size: 30px;
+padding-top: 10px;
+}
+.presentation, #presentation{
+  background-color: #B51800;
+  box-shadow: 6px 6px 6px black;
+}
+.formation, #formation{
+  background-color: #F07C00;
+  box-shadow: 6px 6px 6px black;
+}
+.loisirs, #loisirs{
+  background-color: #DD60B2;
+  box-shadow: 6px 6px 6px black;
+}
+.competences, #competences{
+  background-color: #43BC37;
+  box-shadow: 6px 6px 6px black;
+}
+.experiences, #experiences{
+  background-color: #005DB3;
+  box-shadow: 6px 6px 6px black;
+}
+.contact, #contact{
+  background-color: #9B36B3;
+  box-shadow: 6px 6px 6px black;
+}
+.thumbnail{
+  padding-top: 50px;
+}
